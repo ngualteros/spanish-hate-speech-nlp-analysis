@@ -1,0 +1,13 @@
+
+# NLP processing
+spacy
+
+# Data analysis
+pandas
+
+# Data visualization
+matplotlib
+
+# Jupyter environment
+jupyter
+ipykernel
