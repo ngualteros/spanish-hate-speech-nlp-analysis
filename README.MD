@@ -137,8 +137,7 @@ The project does not report predictive classification performance because no hat
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/spanish-hate-speech-nlp-analysis.git
-cd spanish-hate-speech-nlp-analysis
+git clone https://github.com/ngualteros/spanish-hate-speech-nlp-analysis.git
 ```
 
 ### 2. Create a Virtual Environment
